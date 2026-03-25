@@ -1,25 +1,29 @@
-from utils import speak, set_voice
+from utils import speak
 
 def main():
     print("Welcome to RESONATOR")
 
-    speak("Welcome to RESONATOR. This application helps people with speaking disabilities.")
+    speak("Welcome to RESONATOR")
+
+    rate = 150
 
     while True:
-        x = input("Enter text for audio: ")
+        x = input("Enter text: ")
 
         if x.lower() == "bye":
             speak("Bye bye friend")
             break
 
-        elif x.lower() == "loud":
-            speak("Ok I will speak loudly", volume=1.0)
+        elif x.lower() == "fast":
+            rate = 200
+            speak("Now speaking fast", rate=rate)
 
-        elif x.lower() == "normal":
-            speak("Ok normal tone", volume=0.5)
+        elif x.lower() == "slow":
+            rate = 100
+            speak("Now speaking slow", rate=rate)
 
         else:
-            speak(x)
+            speak(x, rate=rate)
 
 if __name__ == "__main__":
     main()

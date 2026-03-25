@@ -4,7 +4,7 @@
 ![Issues](https://img.shields.io/github/issues/yoshitasharma/text-to-speech-converter)
 ![License](https://img.shields.io/github/license/yoshitasharma/text-to-speech-converter)
 # 🎙️ RESONATOR - Text to Speech Converter
-
+## Added new feature
 ## 🚀 About
 RESONATOR is a simple text-to-speech application designed to help people with speaking disabilities communicate easily.
 

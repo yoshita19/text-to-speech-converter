@@ -1,3 +1,8 @@
+![Repo Size](https://img.shields.io/github/repo-size/yourusername/text-to-speech-converter)
+![Stars](https://img.shields.io/github/stars/yoshitasharma/text-to-speech-converter)
+![Forks](https://img.shields.io/github/forks/yoshitasharma/text-to-speech-converter)
+![Issues](https://img.shields.io/github/issues/yoshitasharma/text-to-speech-converter)
+![License](https://img.shields.io/github/license/yoshitasharma/text-to-speech-converter)
 # 🎙️ RESONATOR - Text to Speech Converter
 
 ## 🚀 About

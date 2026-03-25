@@ -21,3 +21,4 @@ RESONATOR is a simple text-to-speech application designed to help people with sp
 
 ```bash
 pip install -r requirements.txt
+Testing YOLO badge
